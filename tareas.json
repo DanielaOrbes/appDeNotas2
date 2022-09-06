@@ -1,0 +1,41 @@
+[
+   {
+      "id": 1,
+      "descripcion": "Aprender JS",
+      "estado": "en proceso"
+   },
+   {
+      "id": 2,
+      "descripcion": "Aprender Node",
+      "estado": "completado"
+   },
+   {
+      "id": 3,
+      "descripcion": "Aprender JAVA",
+      "estado": "completado"
+   },
+   {
+      "id": 4,
+      "descripcion": "Aprender MySQL",
+      "estado": "pendiente"
+   },
+   {
+      "id": 5,
+      "descripcion": "Aprender Sequelize",
+      "estado": "pendiente"
+   },
+   {
+      "id": 6,
+      "descripcion": "Aprender JS Front",
+      "estado": "pendiente"
+   },
+   {
+      "id": 7,
+      "descripcion": "Aprender React",
+      "estado": "pendiente"
+   },
+   {
+      "id": 1662483861336,
+      "estado": "pendiente"
+   }
+]
